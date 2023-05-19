@@ -1,4 +1,4 @@
-**So my forum got removed for breaking the rules, and I got my 2nd minor warning, but there IS NO WAY to report it despite the warning saying that I can report it...
+**So my forum got removed for breaking the rules, and I got my 2nd minor warning, but there IS NO WAY to report it despite the warning saying that I can report it...**
 Here is what I wrote in the forum post.
 (If you wanna comment on this just open an issue and I will leave it open for discussion)
 
@@ -17,9 +17,13 @@ I will not give any names to not get a warning for public shaming, the player in
 
 Based on 1000 games played. **(Classic Duels)**
 32% (325) of gams were against botters.
+
 68% (218) of the bots were nicked. (Few of them keep changing nicks daily but I know who they are, their bot patterns are very obvious, and when they are real humans, they unnick and try to act legit to avoid bans)
+
 7/10 of Weekly Win/Loss Classic leaderboard players are botters.
+
 out of the 325/1000 bots, I obviously faced the sames ones many times. about 10 of them have a ranking of #100 or higher, the highest one I have faced is ranked ~#20 (Classic Wins Ranking, once again, I will not give the exact ranking of the player to avoid public shaming)
+
 90% of the reported botters have not been banned 1 week after the report (many reports).
 
 **Now the big question is, how to beat the bots?**
